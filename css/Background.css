@@ -1,0 +1,27 @@
+ /* *{
+    margin: 0;
+    padding: 0;
+}
+*/
+{
+.cor-fundo {
+    background-color: rgb(105, 105, 105);
+    display: inline;
+}
+h2 {
+    display: inline;
+}
+}
+
+.item {
+     width: 100px;
+     height: 100px;
+    display: inline,block;
+}
+.item-1 {background-color: red
+}
+.item-2 {background-color: blue;
+}
+.item-3 {background-color: green;  
+}
+
