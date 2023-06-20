@@ -47,7 +47,7 @@ body { /* mudança do tamanho, cor e centralização da interface login */
 
     content: "";
 
-    width: 70px;
+    width: 60px;
 
     height: 1px;
 
@@ -71,7 +71,7 @@ body { /* mudança do tamanho, cor e centralização da interface login */
 
 }
 
-.card-content-area { /* ajuste da posição do Botão 'logar' */
+.card-content-area { /* ajuste da posição da area da senha */
 
     display: flex;
 
