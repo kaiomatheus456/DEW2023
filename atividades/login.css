@@ -31,6 +31,10 @@ body { /* mudança do tamanho, cor e centralização da interface login */
 
     width:280px;
 
+    display: flex;
+
+    flex-direction: column;
+
 }
 
 .card-header { /* estilo, tamanho e posição da escrita 'logar' */
