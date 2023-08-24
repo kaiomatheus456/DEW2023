@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+
+}
+
+section{
+    text-align: center;
+    margin: 15px;
+    padding: 20px;
+}
+
+div{
+    
+    height: 150px;
+    width: 150px;
+    background-color: orange;
+    color: black;
+    padding: 15px;
+    border: 8px solid navy;
+    margin: 5%;
+    text-align: justify;
+    border-radius: 20%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+
+}
