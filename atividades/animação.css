@@ -1,22 +1,21 @@
-#body{
-    display: inline-block;
-    justify-content: center;
-    align-items: center;
-    margin: 0;
-    border: 0;
-}      
+body{
+   margin: 0;
+   border: 0;
+}
 
 #coluna1{  
-    display: inline-block;
-    justify-content: center;
+    display: flex;
     align-items: center;
+    justify-content: center;
     flex-direction: column;
+
 }
+
 
 .lg1{
     background-color: red;
     border-radius: 50%;
-    margin: 10px;
+    margin: 5px;
     height: 100px;
     width: 100px;
     transition: background 1s;
@@ -31,7 +30,7 @@
 .lg2{
     background-color: forestgreen;
     border-radius: 25%;
-    margin: 10px;
+    margin: 5px;
     height: 100px;
     width: 100px;
     transition: background 1s;
@@ -45,7 +44,7 @@
 .lg3{
     background-color: forestgreen;
     border-radius: 25%;
-    margin: 10px;
+    margin:5px;
     height: 100px;
     width: 100px;
     transition: background 1s;
@@ -59,7 +58,7 @@
 .lg4{
     background-color: forestgreen;
     border-radius: 25%;
-    margin: 10px;
+    margin: 5px;
     height: 100px;
     width: 100px;
     transition: background 1s;
@@ -70,17 +69,17 @@
     background-color: darkgreen;
 }
 
+
 #coluna2{
     display: inline-block;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+    
 }
+ 
 
 .lg5{
     background-color: forestgreen;
     border-radius: 25%;
-    margin: 10px;
+    margin: 5px;
     height: 100px;
     width: 100px;
     transition: background 1s;
@@ -94,7 +93,7 @@
 .lg6{
     background-color: forestgreen;
     border-radius: 25%;
-    margin: 10px;
+    margin: 5px;
     height: 100px;
     width: 100px;
 }
@@ -102,7 +101,7 @@
 .lg7{
     background-color: forestgreen;
     border-radius: 25%;
-    margin: 10px;
+    margin: 5px;
     height: 100px;
     width: 100px;
 }
@@ -110,29 +109,28 @@
 .lg8{
     background-color: forestgreen;
     border-radius: 25%;
-    margin: 10px;
+    margin: 5px;
     height: 100px;
     width: 100px;
 }
 
+
 #coluna3{
     display: inline-block;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+    
 }
 
 .lg9{
     background-color: forestgreen;
     border-radius: 25%;
-    margin: 10px;
+    margin: 5px;
     height: 100px;
     width: 100px;
 }
 
 .lg10{
     border-radius: 25%;
-    margin: 10px;
+    margin: 5px;
     height: 100px;
     width: 100px;
 }
@@ -140,14 +138,14 @@
 .lg11{
     background-color: forestgreen;
     border-radius: 25%;
-    margin: 10px;
+    margin: 5px;
     height: 100px;
     width: 100px;
 }
 
 .lg12{
     border-radius: 25%;
-    margin: 10px;
+    margin: 5px;
     height: 100px;
     width: 100px;
 }
