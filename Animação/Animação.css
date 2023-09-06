@@ -1,0 +1,382 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background: url(galaxia\ css.jpg);
+  }
+    
+ 
+
+  #coluna{
+    flex-direction: column;
+    margin: 0px;
+  }
+  
+  .logo {
+    width: 125px;
+    height: 125px;
+    background-color: red; /* Instituto Federal red color */
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 7px;
+    background: red;
+    transform-origin: background 1s;
+    animation: fade-in 5s ease-out;
+    animation: go-back-1 4s;
+  }
+      
+  .logo:hover,
+  .logo:focus {
+  background: brown;
+}
+
+  .lua{
+    display: flex;
+    width: 155px;
+    height: 155px;
+    animation: go-back-8 7s;
+  }
+
+  .Logo2{
+    width: 125px;
+    height: 125px;
+    background-color: green; /* Instituto Federal green color */
+    border-radius: 25%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 7px;
+    background: green;
+    transition: background 1s;
+    animation: go-back-2 4s;
+    
+  }
+  .Logo2:hover,
+  .logo2:focus {
+    background: greenyellow;
+  }
+
+  .Logo3{
+    width: 125px;
+    height: 125px;
+    background-color: green; /* Instituto Federal green color */
+    border-radius: 25%;
+    display: block;
+    align-items: left;
+    justify-content: left;
+    margin: 7px;
+    animation: fade-in 5s ease-out;
+    background: green;
+    transition: background 1s;
+    animation: go-back-3 4s;
+    
+  }
+
+  .Logo3:hover,
+  .Logo3:focus {
+    background: greenyellow;
+  }
+
+  .Logo4{
+    width: 125px;
+    height: 125px;
+    background-color: green; /* Instituto Federal green color */
+    border-radius: 25%;
+    display: block;
+    align-items: left;
+    justify-content: left;
+    margin: 7px;
+    animation: fade-in 5s ease-out;
+    background: green;
+    transition: background 1s;
+    animation: go-back-1 2s;
+    
+  }
+
+  .Logo4:hover,
+  .Logo4:focus {
+    background: greenyellow;
+  }
+
+  #coluna2{
+    flex-direction: column;
+    margin: 0px
+  }
+ 
+
+.Logo5{
+    width: 125px;
+    height: 125px;
+    background-color: green; /* Instituto Federal green color */
+    border-radius: 25%;
+    display: block;
+    align-items: left;
+    justify-content: left;
+    margin: 7px;
+    animation: fade-in 5s ease-out;
+    background: green;
+    transition: background 1s;
+    animation: go-back-5 2s;
+    
+  }
+
+  .Logo5:hover,
+  .Logo5:focus {
+    background: greenyellow;
+  }
+
+  .Logo6{
+    width: 125px;
+    height: 125px;
+    background-color: green; /* Instituto Federal green color */
+    border-radius: 25%;
+    display: block;
+    align-items: left;
+    justify-content: left;
+    margin: 7px;
+    animation: fade-in 5s ease-out;
+    background: green;
+    transition: background 1s;
+    animation: go-back-6  2s;
+  }
+
+  .Logo6:hover,
+  .Logo6:focus {
+    background: greenyellow;
+  }
+
+  .Logo7{
+    width: 125px;
+    height: 125px;
+    background-color: green; /* Instituto Federal green color */
+    border-radius: 25%;
+    display: block;
+    align-items: left;
+    justify-content: left;
+    margin: 7px;
+    animation: fade-in 5s ease-out;
+    background: green;
+    transition: background 1s;
+    animation: go-back 2s;
+  }
+
+  .Logo7:hover,
+  .Logo7:focus {
+    background: greenyellow;
+  }
+
+  .Logo8{
+    width: 125px;
+    height: 125px;
+    background-color: green; /* Instituto Federal green color */
+    border-radius: 25%;
+    display: block;
+    align-items: left;
+    justify-content: left;
+    margin: 7px;
+    animation: fade-in 5s ease-out;
+    background: green;
+    transition: background 1s;
+    animation: go-back 2s;
+    
+  }
+
+  .Logo8:hover,
+  .Logo8:focus {
+    background: greenyellow;
+  }
+
+  #coluna3{
+    flex-direction: column;
+    margin: 0px;
+  }
+  .Logo9{
+    width: 125px;
+    height: 125px;
+    background-color: green; /* Instituto Federal green color */
+    border-radius: 25%;
+    display: block;
+    align-items: left;
+    justify-content: left;
+    margin: 7px;
+    animation: fade-in 5s ease-out;
+    background: green;
+    transition: background 1s;
+    animation: go-back-6 4s;
+    
+  }
+
+  .Logo9:hover,
+  .Logo9:focus {
+    background: greenyellow;
+  }
+
+  .Logo10{
+    width: 125px;
+    height: 125px;
+     /* Instituto Federal whitesmoke color */
+    border-radius: 25%;
+    display: block;
+    align-items: left;
+    justify-content: left;
+    margin: 7px;
+     
+  }
+  .Logo11{
+    width: 125px;
+    height: 125px;
+    background-color: green; /* Instituto Federal green color */
+    border-radius: 25%;
+    display: block;
+    align-items: left;
+    justify-content: left;
+    margin: 7px;
+    animation: fade-in 5s ease-out;
+    background: green;
+    transition: background 1s;
+    animation: go-back-6 4s;
+    
+  }
+
+  .Logo11:hover,
+  .Logo11:focus {
+    background: greenyellow;
+  }
+
+  .Logo12{
+    width: 125px;
+    height: 125px;
+     /* Instituto Federal whitesmoke color */
+    border-radius: 25%;
+    display: block;
+    align-items: left;
+    justify-content: left;
+    margin: 7px;
+     
+  }
+  .foguete {
+	position: fixed;
+	transform-origin: 220px 390px;
+  justify-content: inherit;
+  align-items: inherit;
+  top: 0%;
+
+	animation: foguete 10s linear infinite;
+}
+
+.nave{
+  position: fixed;
+  justify-content: inherit;
+  align-items: inherit;
+  top: 0%;
+  right: 0%;
+  animation: go-back-7 4s;
+  animation-fill-mode: forwards;
+  animation-delay: 3s;
+}
+
+@keyframes foguete {
+	0% {
+		transform: rotate(0deg)
+	}
+	100% {
+		transform: rotate(400deg);
+	}
+}
+
+@keyframes fade-in {
+
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes go-back {
+  from {
+    transform: translateX(700px);
+  }
+  to {
+    transform: translateX(0px);
+  }
+}
+
+  @keyframes go-back-1 {
+    from {
+      transform: translateX(-700px);
+    }
+    to {
+      transform: translateX(0px);
+    }
+  }
+
+  @keyframes go-back-2 {
+    from {
+      transform: translateX(-400px);
+    }
+    to {
+      transform: translateX(0px);
+    }
+  }
+
+  @keyframes go-back-3 {
+    from {
+      transform: translateX(-1000px);
+    }
+    to {
+      transform: translateX(0px);
+    }
+  }
+
+  @keyframes go-back-4 {
+    from {
+      transform: translateX(500px);
+    }
+    to {
+      transform: translateX(0px);
+    }
+  }
+
+  @keyframes go-back-5 {
+    from {
+      transform: translateX(-200px);
+    }
+    to {
+      transform: translateX(0px);
+    }
+  }
+
+  @keyframes go-back-6 {
+    from {
+      transform: translateX(4000px);
+    }
+    to {
+      transform: translateX(0px);
+    }
+}
+
+  @keyframes go-back-7 {
+    from{
+      transform: translateX(0px);
+    }
+    to {
+      transform: translateX(-879px);
+      top: 8%;
+    } 
+
+    }
+  
+    @keyframes go-back-8 {
+      from {
+        transform: translateY(4000px);
+      }
+      to {
+        transform: translateY(0px);
+      }
+    }
